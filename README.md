@@ -8,4 +8,4 @@ El proyecto está estructurado por las siguientes carpetas:
 
 - Carpeta slogan: Contiene los archivos sql agrupados por "view", "function" y "storage_procedure" según lo requerido en la consigna.
 
-- Informe PreEntrega2SqlManodes: Contiene las descripciones, objetivos, detalle de tablas y código de los archivos sql requeridos en la consigna.
+- Informe PreEntrega2SqlManodes.pdf: Contiene las descripciones, objetivos, detalle de tablas y código de los archivos sql requeridos en la consigna.
