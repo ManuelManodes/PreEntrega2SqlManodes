@@ -1,3 +1,5 @@
+USE school_management;
+
 CREATE VIEW TeacherSchedule AS
 SELECT
 teacher.first_name AS teacher_first_name,

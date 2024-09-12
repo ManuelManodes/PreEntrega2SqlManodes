@@ -1,3 +1,5 @@
+USE school_management;
+
 CREATE FUNCTION GetStudentAge(student_dob DATE) RETURNS INT
 BEGIN
 DECLARE student_age INT;

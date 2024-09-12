@@ -1,3 +1,5 @@
+USE school_management;
+
 CREATE FUNCTION GetCourseDuration(course_start DATE, course_end DATE) RETURNS INT
 BEGIN
 DECLARE course_duration INT;

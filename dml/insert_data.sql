@@ -1,3 +1,5 @@
+USE school_management;
+
 -- Inserciones para la tabla student
 INSERT INTO student (dni, first_name, last_name, date_of_birth, gender, address, phone_number, email, enrollment_date) 
 VALUES 

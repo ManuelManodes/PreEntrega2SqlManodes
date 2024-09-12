@@ -1,3 +1,5 @@
+USE school_management;
+
 CREATE VIEW StudentCourses AS
 SELECT student.first_name, student.last_name, course.course_name, enrollment.grade
 FROM student
